@@ -1,0 +1,12 @@
+.choices{
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  gap: 20px;
+}
+.container{
+  display: flex;
+  justify-content: space-between; 
+  padding: 20px;
+  align-items: center;
+}
